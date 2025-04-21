@@ -12,3 +12,4 @@ C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleAp
 C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json

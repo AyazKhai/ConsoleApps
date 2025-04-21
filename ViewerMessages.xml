@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+  <message id="1">
+    <variant language="en_US">Customer</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="2">
+    <variant language="en_US">Model</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="3">
+    <variant language="en_US">Search</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="4">
+    <variant language="en_US">Type</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="5">
+    <variant language="en_US">Description</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="6">
+    <variant language="en_US">Name</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="7">
+    <variant language="en_US">Action</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="8">
+    <variant language="en_US">Elements</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="9">
+    <variant language="en_US">Back</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="10">
+    <variant language="en_US">Cancel</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="11">
+    <variant language="en_US">Close</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="12">
+    <variant language="en_US">Continue</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="13">
+    <variant language="en_US">Delete</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="14">
+    <variant language="en_US">Export</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+  <message id="15">
+    <variant language="en_US">Contacts</variant>
+    <variant language="ru_RU"></variant>
+  </message>
+</messages>

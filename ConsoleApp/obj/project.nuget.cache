@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q49MkKA/O+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayazh\\OneDrive\\Рабочий стол\\КАМАЗ2\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\ayazh\\OneDrive\\Рабочий стол\\КАМАЗ2\\ConsoleApp\\ConsoleApp\\obj\\project.nuget.cache: Обнаружены недопустимые данные при декодировании."
+    }
+  ]
+}

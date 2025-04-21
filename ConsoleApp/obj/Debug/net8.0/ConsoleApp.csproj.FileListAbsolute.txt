@@ -1,0 +1,14 @@
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\ayazh\OneDrive\Рабочий стол\КАМАЗ2\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

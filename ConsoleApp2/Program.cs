@@ -8,11 +8,8 @@ class Program
 {
     static void Main()
     {
-
         try
         {
-        //    string fileXLSX = "C:\\Users\\ayazh\\OneDrive\\Рабочий стол\\КАМАЗ2\\ConsoleApp\\ViewerMessages.xlsx";
-        //    string fileXML = "C:\\Users\\ayazh\\OneDrive\\Рабочий стол\\КАМАЗ2\\ConsoleApp\\ViewerMessages.xml";
             string fileXLSX = GetFilePath(".xlsx");
             string fileXML = GetFilePath(".xml");
 
@@ -28,7 +25,7 @@ class Program
     }
     public static string GetFilePath( string type)
     {
-        Console.WriteLine($"Введите относительный или полный путь к файлу {type} {AppDomain.CurrentDomain.BaseDirectory}");
+        Console.WriteLine($"Введите относительный или полный путь к файлу {type}");
         string input = Console.ReadLine();
 
         string filePath = Path.IsPathRooted(input) ? input :

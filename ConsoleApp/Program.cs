@@ -6,7 +6,7 @@ class Program
     {
         try
         {
-            Console.WriteLine("Введите относительный или полный путь в файлу" + AppDomain.CurrentDomain.BaseDirectory);
+            Console.WriteLine("Введите относительный или полный путь в файлу");
             string inputPath = Console.ReadLine();
 
             string filename;
